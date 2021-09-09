@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:#F2F2F2 ;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 25px;
+}
+ul{
+    float: right;
+    }
+li{
+    display:inline;
+    }    
+.logo img{
+    height: px;
+    width: 55px;
+    padding-top: 30px;
+    margin-left: 15px;
+}
+#activites {
+    color: black;
+}
